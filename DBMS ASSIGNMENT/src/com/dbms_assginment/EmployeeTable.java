@@ -205,8 +205,8 @@ public class EmployeeTable {
 		// 1. Inserting 5 records to the Table Employee
 		tb.CreationAndInsertion();
 		// 2.Modifying Email_Id dataType
-        tb.ModifyEmail_Id();
-        // 3.Inserting two records 
+                tb.ModifyEmail_Id();
+                // 3.Inserting two records 
 		tb.InsertingTwoRecords();
 		//4.Updating Name
 		tb.UpdateName();
