@@ -105,7 +105,7 @@ public class EmployeeTable {
     					String phoneNumber=res.getString("Phone_Number");
 
     					System.out.println("Employee ID: " + id+", Employee Name: " + name+", Email_Id: "+eMail+", Phone_Number: "+phoneNumber);
-    				//	System.out.println("Employee Name: " + name + " " + lname);
+    				
     			   }
     		   }catch(Exception e) {
     			   e.printStackTrace();
